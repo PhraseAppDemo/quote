@@ -6,8 +6,10 @@ phraseapp:
     - file: ./quote/<locale_code>.lproj/Localizable.strings
       params:
         file_format: strings
+        update_translations: true
   pull:
     targets:
     - file: ./quote/<locale_code>.lproj/Localizable.strings
       params:
         file_format: strings
+        update_translations: true
