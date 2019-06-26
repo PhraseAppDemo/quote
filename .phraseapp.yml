@@ -1,5 +1,5 @@
 phraseapp:
-  project_id: 0a057f486f0781e2617fde5179386ced
+  project_id: b4a4c96e9bc75e6aae1dc53747cc34cc
   push:
     sources:
     - file: ./quote/<locale_code>.lproj/Localizable.strings
