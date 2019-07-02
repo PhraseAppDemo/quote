@@ -19,8 +19,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         PhraseApp.shared.setup(
-            distributionID: "7b13d58caccaa5324df20b05f35ec2ee",
-            environmentToken: "Bm-Dc1ODjpH-TqurGXLlEsSGaV_idLcArIvaIEr9jxo"
+            distributionID: "2ece36fa247033c103b2830214fe42b1",
+            environmentToken: "CoPNIDK_c3bjFyAsu2qbnqifG4lDwnjWvNP1kip_1Fs"
         )
         PhraseApp.shared.debugMode = true
         do {
